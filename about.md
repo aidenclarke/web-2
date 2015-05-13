@@ -7,5 +7,5 @@ hhhh hhhh hhhhh hhhh hhhhfmt
 
 *hi* i am ***FABULOUS***
 ```python
-print('HA! You was right!'
+print('HA! You was right!')
 ```
