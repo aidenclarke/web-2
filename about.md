@@ -6,3 +6,6 @@ hhhh hhhh hhhhh hhhh hhhhfmt
 ##hey
 
 *hi* i am ***FABULOUS***
+```python
+print('HA! You was right!'
+```
