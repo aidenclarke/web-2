@@ -1,5 +1,6 @@
 {
   "posts": [
-    { "slug:": "luigilegion", "title": "Luigi Legion" }
+    { "slug": "first-post", "title": "First Post" },
+    { "slug": "minecraft", "title": "Minecraft" }
   ]
 }
