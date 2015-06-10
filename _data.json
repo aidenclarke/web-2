@@ -1,6 +1,13 @@
 {
+  "loljk": {
+    "layout": false
+  },
+  "404": {
+    "layout": false
+  },
   "posts": [
     { "slug": "first-post", "title": "First Post" },
+    { "slug": "testblog", "title": "Test Blog" },
     { "slug": "minecraft", "title": "Minecraft" }
   ]
 }
